@@ -3,7 +3,7 @@
 🎓 Mechanical Engineering Undergraduate @ VIT Chennai  
 🤖 Interested in Robotics, Perception Systems, and Autonomous Systems  
 📍 Based in Chennai, India  
-🌐 [LinkedIn](https://www.linkedin.com/in/sukant-rai-a7b273226/
+🌐 [LinkedIn](https://www.linkedin.com/in/sukant-rai-a7b273226)
 ✉️ Email: raisukant656@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
