@@ -33,9 +33,3 @@
   Working on inverse kinematics and motion planning using ROS, RViz, and Python.
 
 ---
-
-## 📊 GitHub Stats
-
-![Sukant's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai-sukant&show_icons=true&theme=default&count_private=true)
-
----
